@@ -1,5 +1,5 @@
 Implementacion del algoritmo Bully distribuido
-para sincronización de reloj entre peers(simulaicion)
+para sincronización de reloj entre peers(simulación)
 
 
 Dependencias
