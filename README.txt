@@ -1,5 +1,5 @@
-Implementacion del algoritmo Bully distribuido
-para sincronización de reloj entre peers(simulación)
+Implementacion del algoritmo Lectores Escritores distribuido
+(simulación)
 
 
 Dependencias
